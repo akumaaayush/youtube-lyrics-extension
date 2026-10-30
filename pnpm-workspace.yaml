@@ -1,0 +1,2 @@
+# pnpm 11 ignores engine-strict in .npmrc; this makes the engines field in package.json a hard error
+engineStrict: true
